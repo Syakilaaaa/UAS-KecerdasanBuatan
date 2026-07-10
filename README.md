@@ -126,17 +126,19 @@ Dataset yang digunakan adalah **Online Shoppers Purchasing Intention Dataset** d
 ## 📁 Struktur Repository
 
 UAS-KecerdasanBuatan/
+
 ├── README.md # File ini (penjelasan proyek)
+
 ├── Laporan uas.md # Laporan lengkap UAS
+
 ├── uas_model.ipynb # Notebook kode lengkap
+
 ├── data/
-│ └── online_shoppers_intention.csv # Dataset
+
+└── online_shoppers_intention.csv # Dataset
+
 └── Jurnal/ # Folder referensi jurnal
-├── Guo_et_al_2025.pdf
-├── Jain_2025.pdf
-├── Yang_Peng_2026.pdf
-├── Springer_2025.pdf
-└── Sakar_et_al_2018.pdf
+
 
 
 ---
