@@ -165,6 +165,9 @@ uploaded = files.upload()
 
 ---
 ### Penulis
--**Nama:** Syakila Nurul Ijati
--**Mata Kuliah:** Kecerdasan Buatan
--**Program Stusi:** Teknik Informatika
+- **Nama:** Syakila Nurul Ijati
+- **Mata Kuliah:** Kecerdasan Buatan
+- **Program Stusi:** Teknik Informatika
+
+---
+ 2026 - UAS Kecerdasan Buatan
