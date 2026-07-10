@@ -750,3 +750,5 @@ Proyek ini bertujuan untuk memprediksi intensi pembelian pelanggan e-commerce me
 4. Springer. (2025). The application of deep learning in user purchase behaviour analysis and marketing decision support. International Journal of Computational Intelligence Systems, 18, Article 253.
 
 5. Sakar, C. O., Polat, S. O., Katircioglu, M., & Kastro, Y. (2018). Real-time prediction of online shoppers' purchasing intention using multilayer perceptron and LSTM recurrent neural networks. Neural Computing and Applications, 31(10), 6893-6908.
+
+---
