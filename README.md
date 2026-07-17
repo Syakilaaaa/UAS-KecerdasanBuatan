@@ -19,10 +19,7 @@ Dataset yang digunakan adalah **Online Shoppers Purchasing Intention Dataset** d
 
 | Nama | NIM |
 |:---|:---|
-| [ISI NAMA ANDA] | [ISI NIM ANDA] |
-| [ISI NAMA ANGGOTA 2] | [ISI NIM ANGGOTA 2] |
-
-*(Maksimal 2 orang)*
+| [Syakila Nurul Ijati] | [2406060] |
 
 ---
 
